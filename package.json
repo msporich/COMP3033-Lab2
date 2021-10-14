@@ -1,0 +1,22 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab 2 for Web Frameworks and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msporich/COMP3033-Lab2.git"
+  },
+  "author": "Mark Sporich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msporich/COMP3033-Lab2/issues"
+  },
+  "homepage": "https://github.com/msporich/COMP3033-Lab2#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
